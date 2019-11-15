@@ -6,7 +6,7 @@ SSR application implemented with Next.js
 1.Clone this repository to be able to initialize it.
 
 ```bash
-git clone 
+git clone https://github.com/Alexeychuk/FrontEnd-Challenge.git
 ```
 
 2. Go to the root directory of application
